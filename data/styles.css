@@ -81,6 +81,9 @@
   color:#000000;
   text-align:left;
 }
+._复选框 {
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -137,7 +140,7 @@
 .checkbox {
   text-align:left;
 }
-._复选框 {
+._复选框1 {
   text-align:left;
 }
 .box_2 {
