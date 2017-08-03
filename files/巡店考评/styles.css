@@ -705,6 +705,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u176_ann {
+  position:absolute;
+  left:238px;
+  top:361px;
+  width:1px;
+  height:1px;
+}
 #u178_img {
   position:absolute;
   left:0px;
@@ -3213,6 +3220,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u228_ann {
+  position:absolute;
+  left:394px;
+  top:36px;
+  width:1px;
+  height:1px;
+}
 #u207_state1 {
   position:absolute;
   left:0px;
@@ -3630,6 +3644,13 @@
   width:161px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u207_ann {
+  position:absolute;
+  left:368px;
+  top:406px;
+  width:1px;
+  height:1px;
 }
 #u391 {
   position:absolute;
